@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(218, 218, 218);
+}
+hr {
+  border-color: rgb(224, 143, 77);
+  width: 80%;
+  height: 40px;
+  border-style: dotted none none;
+}
+img {
+  border-radius: 80%;
+  border-color: rgb(134, 112, 112);
+  border-style: inset;
+}
+h1 {
+  color: rgb(18, 53, 211);
+  font: small-caps bold 24px/1 sans-serif;
+}
+h1:hover {
+  color: rgb(167, 114, 36);
+}
+h2 {
+  color: blueviolet;
+  font: small-caps bold 24px/1 serif;
+}
+h3 {
+  color: rgb(221, 87, 46);
+  font: small-caps bold 24px/1 serif;
+}
+a {
+  color: rgb(248, 0, 0);
+  font: 20px "Fira Sans", sans-serif;
+}
+a:hover {
+  color: #7589e2;
+}
+p {
+  font: italic 1.2em "Fira Sans", sans-serif;
+}
+ul {
+  font: italic 1.2em "Fira Sans", sans-serif;
+}
+ol {
+  font: italic 1.2em "Fira Sans", sans-serif;
+}
+label {
+  color: rgb(10, 9, 9);
+  font: 1.2em "Fira Sans", sans-serif;
+}
+input {
+  color: black;
+}
